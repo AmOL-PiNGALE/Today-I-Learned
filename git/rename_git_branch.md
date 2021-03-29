@@ -4,18 +4,25 @@ Rename a Git Branch
 1. Rename your local branch:
 
 - If you want to rename the current branch, you can do:
+```
   git branch -m <new_name>
+```
 
 - If you want to rename a branch while pointed to any branch, do:
+```
   git branch -m <old_name> <new_name>
+```
 
 2. Delete the old-name remote branch and push the new-name local branch:
+```
   git push origin :<old_name> <new_name>
+```
 
 3. Reset the upstream branch for the new-name local branch:
 Switch to the branch and then:
+```
   git push origin -u <new_name>
-
+```
 
 
 ------------------------------------------------------------------------------------------------

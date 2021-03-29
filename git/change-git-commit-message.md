@@ -7,14 +7,17 @@ Amending the Last Commit
 ------------------------------------------------------------------------------------------------
 To change the last commit, you can simply commit again, using the --amend flag:
 
+```
   $ git commit --amend -m "New and correct message"
-
   $ git push --force repository-name branch-name
+```
 
 Note that using --force is not recommended unless you are absolutely sure that no one else has cloned your repository after the latest commit.
 A safer alternative is to use:
 
+```
   $ git push --force-with-lease repository-name branch-name
+```
 
 
 
