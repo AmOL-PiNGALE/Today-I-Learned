@@ -64,13 +64,13 @@ task ktlintFormat(type: JavaExec, group: "formatting") {
 
 To check if your code has some formatting errors or not, open the terminal of your Android studio and write the below command:
 ```
-    ./gradlew ktlint
+./gradlew ktlint
 ```
 This will start running the ktlintCheck task and it will show some build failed error if your code has some formatting errors. Not only that, it will show you the exact error that is being encountered i.e. unexpected indentation or unexpected blank line.
 
 Here, some lines can be auto-corrected while some lines can’t be auto-corrected. So, to fix the line that can be auto-corrected, you can use the below command in the terminal:
 ```
-    ./gradlew ktlintFormat
+./gradlew ktlintFormat
 ```
 
 To fix the error that cannot be fixed automatically, you have to fix it manually.
