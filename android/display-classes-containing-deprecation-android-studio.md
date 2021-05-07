@@ -1,6 +1,5 @@
 
 # Display Classes Containing Deprecation Android Studio
---------------------------------------------------------------------------
 
 Looking at How to recompile with -Xlint:deprecation, add into root build.gradle:
 
