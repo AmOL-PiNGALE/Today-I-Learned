@@ -1,9 +1,9 @@
-Change Git Commit Message
+# Change Git Commit Message
 ------------------------------------------------------------------------------------------------
 Commits to Git are accompanied with a commit message that explains what changes the commit has made to the code. However, a situation may arise where the commit message will need to be changed after it has been pushed. ​ex Made a typo in your commit message? Or forgot to mention an important detail in the message?
 
 
-Amending the Last Commit
+# Amending the Last Commit
 ------------------------------------------------------------------------------------------------
 To change the last commit, you can simply commit again, using the --amend flag:
 

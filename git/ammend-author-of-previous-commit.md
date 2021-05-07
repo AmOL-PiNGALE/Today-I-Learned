@@ -1,4 +1,4 @@
-Amend Author Of Previous Commit
+# Amend Author Of Previous Commit
 ------------------------------------------------------------------------------------------------
 
 The author of the previous commit can be amended with the following command

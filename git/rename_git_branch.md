@@ -1,4 +1,4 @@
-Rename a Git Branch
+# Rename a Git Branch
 ------------------------------------------------------------------------------------------------
 
 1. Rename your local branch:

@@ -1,5 +1,5 @@
 
-Code Formatting in Kotlin using ktlint
+# Code Formatting in Kotlin using ktlint
 --------------------------------------------------------------------------
 
 Kotlin is a very cool language and to keep the coolness of the language you need to write the codes in the desired format. But if you are not familiar with how to write clean code using Kotlin then don’t worry you need not learn something to achieve this, instead, you just have to use ktlint that is used for the same purpose.
