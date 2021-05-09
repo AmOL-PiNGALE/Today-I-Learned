@@ -21,6 +21,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 ### Git
 - [Amend Author Of Previous Commit](git/ammend-author-of-previous-commit.md)
 - [Change Git Commit Message](git/change-git-commit-message.md)
+- [Checkout Previous Branch](git/checkout-previous-branch.md)
 - [Delete All Untracked Files](git/delete-all-untracked-files.md)
 - [Hyperlink in Markdown File](git/hyperlink-in-markdown-file.md)
 - [Move The Latest Commit To A New Branch](git/move-the-latest-commit-to-a-new-branch.md)
