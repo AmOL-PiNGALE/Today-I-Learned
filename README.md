@@ -23,6 +23,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Change Git Commit Message](git/change-git-commit-message.md)
 - [Delete All Untracked Files](git/delete-all-untracked-files.md)
 - [Hyperlink in Markdown File](git/hyperlink-in-markdown-file.md)
+- [Move The Latest Commit To A New Branch](git/move-the-latest-commit-to-a-new-branch.md)
 - [Rename a Git Branch](git/rename_git_branch.md)
 
 ### iOS
