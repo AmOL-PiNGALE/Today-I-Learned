@@ -7,7 +7,7 @@ See [Android Root Beer](https://github.com/scottyab/rootbeer) for advanced root 
 
 If you need some simple and basic rooting detection check the code below:
 
-```
+```Java
 /**
 * Checks if the device is rooted.
 *
@@ -15,21 +15,20 @@ If you need some simple and basic rooting detection check the code below:
 */
 
 public static boolean isRooted() {
-
     // get from build info
     String buildTags = android.os.Build.TAGS;
     if (buildTags != null && buildTags.contains("test-keys")) {
-      return true;
+        return true;
     }
 
     // check if /system/app/Superuser.apk is present
     try {
-      File file = new File("/system/app/Superuser.apk");
-      if (file.exists()) {
-        return true;
-      }
+        File file = new File("/system/app/Superuser.apk");
+        if (file.exists()) {
+            return true;
+        }
     } catch (Exception e1) {
-      // ignore
+        // ignore
     }
 
     // try executing commands
@@ -46,7 +45,7 @@ private static boolean canExecuteCommand(String command) {
     } catch (Exception e) {
   	    executedSuccesfully = false;
     }
-    
+
     return executedSuccesfully;
 }
 ```
