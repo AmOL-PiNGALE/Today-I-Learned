@@ -31,6 +31,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ### iOS
 
+- [Determining if iOS Device is Jailbroken](ios/determining-if-ios-device-is-jailbroken.md)
 - [Download older versions of Xcode](ios/download-older-versions-of-Xcode.md)
 
 

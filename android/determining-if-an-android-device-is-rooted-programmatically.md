@@ -39,15 +39,15 @@ public static boolean isRooted() {
 
 // executes a command on the system
 private static boolean canExecuteCommand(String command) {
-	boolean executedSuccesfully;
-	try {
-  		Runtime.getRuntime().exec(command);
-  		executedSuccesfully = true;
-	} catch (Exception e) {
-  		executedSuccesfully = false;
-	}
-
-	return executedSuccesfully;
+    boolean executedSuccesfully;
+    try {
+        Runtime.getRuntime().exec(command);
+  	    executedSuccesfully = true;
+    } catch (Exception e) {
+  	    executedSuccesfully = false;
+    }
+    
+    return executedSuccesfully;
 }
 ```
 
