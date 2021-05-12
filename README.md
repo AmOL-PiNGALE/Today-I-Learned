@@ -18,8 +18,10 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Display Classes Containing Deprecation Android Studio](android/display-classes-containing-deprecation-android-studio.md)
 - [Launch Modes](android/launch_modes.md)
 - [How to search all files for a string in Android Studio?](android/search-all-files-for-the-string.md)
+- [Shimmer Effect Placeholder](android/shimmer-effect-placeholder.md)
 
 ### Git
+
 - [Amend Author Of Previous Commit](git/ammend-author-of-previous-commit.md)
 - [Change Git Commit Message](git/change-git-commit-message.md)
 - [Checkout Old Version Of A File](git/checkout-old-version-of-a-file.md)
