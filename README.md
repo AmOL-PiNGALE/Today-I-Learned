@@ -14,11 +14,14 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 - [Alternative to AsyncTask](android/alternative-to-asynctask-in-java.md)
 - [Code Formatting in Kotlin using ktlint](android/code-formatting-in-kotlin-using-ktlint.md)
-- [Determining if an Android Device is Rooted Pprogrammatically](android/determining-if-an-android-device-is-rooted-programmatically.md)
+- [Determining if an Android Device is Rooted Programmatically](android/determining-if-an-android-device-is-rooted-programmatically.md)
 - [Display Classes Containing Deprecation Android Studio](android/display-classes-containing-deprecation-android-studio.md)
 - [Launch Modes](android/launch_modes.md)
-- [How to search all files for a string in Android Studio?](android/search-all-files-for-the-string.md)
 - [Shimmer Effect Placeholder](android/shimmer-effect-placeholder.md)
+
+### Android Studio
+
+- [How to search all files for a string in Android Studio?](android-studio/search-all-files-for-the-string.md)
 
 ### Git
 

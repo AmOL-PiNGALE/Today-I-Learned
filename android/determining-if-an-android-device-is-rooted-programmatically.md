@@ -1,5 +1,5 @@
 
-# Determining if an Android Device is Rooted Pprogrammatically
+# Determining if an Android Device is Rooted Programmatically
 
 Rooting detection is a cat and mouse game and it is hard to make rooting detection that will work on all devices for all cases.
 
