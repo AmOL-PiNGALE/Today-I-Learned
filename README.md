@@ -5,17 +5,18 @@ A collection of concise write-ups on small things I learn day to day across a va
 ### Categories
 
 * [Android](#android)
+* [Android Studio](#android-studio)
 * [Git](#git)
 * [iOS](#ios)
 
-------
+-----------------------------------------------------------------------------------------------
 
 ### Android
 
 - [Alternative to AsyncTask](android/alternative-to-asynctask-in-java.md)
 - [Code Formatting in Kotlin using ktlint](android/code-formatting-in-kotlin-using-ktlint.md)
 - [Determining if an Android Device is Rooted Programmatically](android/determining-if-an-android-device-is-rooted-programmatically.md)
-- [Display Classes Containing Deprecation Android Studio](android/display-classes-containing-deprecation-android-studio.md)
+- [Display Classes Containing Deprecation Android](android/display-classes-containing-deprecation-android.md)
 - [Launch Modes](android/launch_modes.md)
 - [Shimmer Effect Placeholder](android/shimmer-effect-placeholder.md)
 
@@ -30,6 +31,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Checkout Old Version Of A File](git/checkout-old-version-of-a-file.md)
 - [Checkout Previous Branch](git/checkout-previous-branch.md)
 - [Delete All Untracked Files](git/delete-all-untracked-files.md)
+- [Git Push Force but with lease](git/git-push-force-but-with-lease.md)
 - [Hyperlink in Markdown File](git/hyperlink-in-markdown-file.md)
 - [Move The Latest Commit To A New Branch](git/move-the-latest-commit-to-a-new-branch.md)
 - [Rename a Git Branch](git/rename_git_branch.md)
