@@ -35,6 +35,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Hyperlink in Markdown File](git/hyperlink-in-markdown-file.md)
 - [Move The Latest Commit To A New Branch](git/move-the-latest-commit-to-a-new-branch.md)
 - [Rename a Git Branch](git/rename_git_branch.md)
+- [Show What Is In A Git Stash](git/show-what-is-in-a-git-stash.md)
 
 ### iOS
 
