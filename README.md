@@ -14,6 +14,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 ### Android
 
 - [Alternative to AsyncTask](android/alternative-to-asynctask-in-java.md)
+- [Alternative to IntentService](android/alternative-to-intentservice.md)
 - [Code Formatting in Kotlin using ktlint](android/code-formatting-in-kotlin-using-ktlint.md)
 - [Determining if an Android Device is Rooted Programmatically](android/determining-if-an-android-device-is-rooted-programmatically.md)
 - [Display Classes Containing Deprecation Android](android/display-classes-containing-deprecation-android.md)
