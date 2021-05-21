@@ -17,6 +17,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Alternative to IntentService](android/alternative-to-intentservice.md)
 - [Code Formatting in Kotlin using ktlint](android/code-formatting-in-kotlin-using-ktlint.md)
 - [Determining if an Android Device is Rooted Programmatically](android/determining-if-an-android-device-is-rooted-programmatically.md)
+- [Difference between Build Type, Flavour, and Build Variant in Android](android/difference-between-build-type-flavour-and-build-variant.md)
 - [Display Classes Containing Deprecation Android](android/display-classes-containing-deprecation-android.md)
 - [Launch Modes](android/launch_modes.md)
 - [Shimmer Effect Placeholder](android/shimmer-effect-placeholder.md)
