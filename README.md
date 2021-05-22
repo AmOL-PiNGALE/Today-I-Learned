@@ -21,6 +21,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Display Classes Containing Deprecation Android](android/display-classes-containing-deprecation-android.md)
 - [Launch Modes](android/launch_modes.md)
 - [Shimmer Effect Placeholder](android/shimmer-effect-placeholder.md)
+- [Upgrade Fabric to Firebase Crashlytics](android/upgrade-fabric-to-firebase-crashlytics.md)
 
 ### Android Studio
 
