@@ -50,5 +50,8 @@ private static boolean canExecuteCommand(String command) {
 }
 ```
 
-1. [StackOveflow](https://stackoverflow.com/questions/3424195/determining-if-an-android-device-is-rooted-programmatically)
-2. [Medium Blog](https://medium.com/@scottyab/detecting-root-on-android-97803474f694)
+
+### References
+
+1. [https://stackoverflow.com/questions/3424195/determining-if-an-android-device-is-rooted-programmatically](https://stackoverflow.com/questions/3424195/determining-if-an-android-device-is-rooted-programmatically)
+2. [https://medium.com/@scottyab/detecting-root-on-android-97803474f694](https://medium.com/@scottyab/detecting-root-on-android-97803474f694)

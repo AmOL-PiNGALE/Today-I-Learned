@@ -18,7 +18,7 @@ The <b>AsyncTask</b> class helped us in executing some code in the background th
 
     Here is an example how you can use it.
 
-```
+```java
 class DownloadTaskRunner {
             private Executor executor = Executors.newSingleThreadExecutor(); 
             private Handler handler = new Handler(Looper.getMainLooper());

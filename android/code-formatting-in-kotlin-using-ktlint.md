@@ -22,7 +22,7 @@ The whole ktlint process can be divided into two parts:
 There are three different approaches to include ktlink
 To use ktlint from gradle, you can add following snippet to build.gradle
 
-```
+```groovy
 apply plugin: "java"
 
 repositories {

@@ -1,5 +1,5 @@
 
-## Difference between Build Type, Flavour, and Build Variant in Android
+# Difference between Build Type, Flavour, and Build Variant in Android
 
 ### Build Type
 Build Type refers to build and packaging settings like signing configuration for a project. For example, ```debug``` and ```release``` build types. 
@@ -56,8 +56,4 @@ The combination of Build Type and Flavor is known as Build Variant. For example,
 
 You can view build variants in Android Studio at **View -> Tool Windows -> Build Variants**. It would be something like this:
 
-![](https://1.bp.blogspot.com/--waVet_GCwY/Vm8WSV5w-JI/AAAAAAAACdc/HSapBccFfJ8/s640/image01.png)
-
-<h1 align="center">
-<img src="../assets/mock-build-variants.png?raw=true" alt="Build-Variants" /><br />
-</h1>
+![](../assets/mock-build-variants.png)

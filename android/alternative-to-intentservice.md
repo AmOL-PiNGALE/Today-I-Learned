@@ -1,5 +1,5 @@
 
-## Alternative to IntentService
+# Alternative to IntentService
 
 * Normally we all come across lot of applications, which works in background. This background functionality is implemented using the Service or IntentService.
 
@@ -49,6 +49,7 @@ startService(msgIntent);
 ```
 
 
+
 > <b>The IntentService is deprecated in Android 11 (R), so we will be using JobIntentService as an alternative for it.</b>
 
 ```java
@@ -89,7 +90,7 @@ Intent msgIntent = new Intent(this, SimpleIntentService.class);
 SimpleIntentService.enqueueWork(this, msgIntent)
 ```
 
-Important:</br>
+Important:  
 You need to add permissions to manifest.
 
 `<uses-permission android:name="android.permission.WAKE_LOCK" />` // needed for pre-oreo devices
@@ -103,9 +104,8 @@ also
     android:exported="true"/>
 ```
 
------------------------------------------------------------------------------
 
-For more understanding you can check following links,
+### References
 
 1. [Service vs IntentService](https://blog.mindorks.com/service-vs-intentservice-in-android)
 2. [IntentService](https://developer.android.com/reference/android/app/IntentService)

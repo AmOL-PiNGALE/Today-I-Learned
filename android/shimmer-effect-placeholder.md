@@ -11,5 +11,8 @@ The following is an example of Shimmer effect in an Android application:
 <img src="../assets/shimmer-effect-in-android.gif?raw=true" alt="Shimmer-Effect" /><br />
 </h1>
 
+
+### References
+
 1. [Shimmer by Facebook](https://github.com/facebook/shimmer-android)
 2. [https://blog.mindorks.com/using-shimmer-effect-placeholder-in-android](https://blog.mindorks.com/using-shimmer-effect-placeholder-in-android)

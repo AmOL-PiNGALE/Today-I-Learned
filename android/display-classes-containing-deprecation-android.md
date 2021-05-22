@@ -3,7 +3,7 @@
 
 Looking at How to recompile with -Xlint:deprecation, add into root build.gradle:
 
-```
+```groovy
 allprojects {
 	repositories {
 		...
@@ -32,8 +32,8 @@ gradle > app > Tasks > verification > lint
 You can check the warning/errors in Gradle-Console/Run/Build tab
 
 
-Some useful resouces
-------------------------------------
+### References
+
 1. [https://stackoverflow.com/questions/34807147/display-classes-containing-deprecation-android-studio](https://stackoverflow.com/questions/34807147/display-classes-containing-deprecation-android-studio)
 2. [https://stackoverflow.com/questions/49711773/how-to-recompile-with-xlintdeprecation](https://stackoverflow.com/questions/49711773/how-to-recompile-with-xlintdeprecation)
 3. [https://dominoc925.blogspot.com/2016/08/identifying-deprecated-classes-and.html](https://dominoc925.blogspot.com/2016/08/identifying-deprecated-classes-and.html)
