@@ -2,12 +2,13 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. 
 
-### Categories
+## Categories
 
 * [Android](#android)
 * [Android Studio](#android-studio)
 * [Git](#git)
 * [iOS](#ios)
+* [Markdown](#markdown)
 
 -----------------------------------------------------------------------------------------------
 
@@ -35,7 +36,6 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Checkout Previous Branch](git/checkout-previous-branch.md)
 - [Delete All Untracked Files](git/delete-all-untracked-files.md)
 - [Git Push Force but with lease](git/git-push-force-but-with-lease.md)
-- [Hyperlink in Markdown File](git/hyperlink-in-markdown-file.md)
 - [Move The Latest Commit To A New Branch](git/move-the-latest-commit-to-a-new-branch.md)
 - [Rename a Git Branch](git/rename_git_branch.md)
 - [Show What Is In A Git Stash](git/show-what-is-in-a-git-stash.md)
@@ -45,7 +45,14 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Determining if iOS Device is Jailbroken](ios/determining-if-ios-device-is-jailbroken.md)
 - [Download older versions of Xcode](ios/download-older-versions-of-Xcode.md)
 
+### Markdown
 
-Inspiration
-------------------------------------------------------------------------------------------------
+- [Hyperlink in Markdown File](markdown/hyperlink-in-markdown-file.md)
+- [Mastering Markdown](markdown/mastering-markdown.md)
+
+</br>
+
+## Inspiration
+------------------------------------
+
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til), [wajahatkarim3/Today-I-Learned](https://github.com/wajahatkarim3/Today-I-Learned) and [anitaa1990/Today-I-Learned](https://github.com/anitaa1990/Today-I-Learned)
