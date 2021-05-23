@@ -53,6 +53,5 @@ A collection of concise write-ups on small things I learn day to day across a va
 </br>
 
 ## Inspiration
-------------------------------------
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til), [wajahatkarim3/Today-I-Learned](https://github.com/wajahatkarim3/Today-I-Learned) and [anitaa1990/Today-I-Learned](https://github.com/anitaa1990/Today-I-Learned)

@@ -5,7 +5,7 @@ There is a reason why I am including this post here,
 
 I have started this repo, to maintain list of thing which I learned day-to-day. But doing so I noticed I am doing lot of cleanup writting on the posts. The simple reason is, I don't know enough about how to write and format these markdown files properly. 
 
-This post will highlight couple of important things for getting started and doing less mistakes. I will also point out what actual problem I faced. And how to overcome them.
+This post will highlight couple of important things for getting started and doing less mistakes. 
 
 So let's get started...
 
@@ -170,6 +170,16 @@ GitHub supports [emoji](https://docs.github.com/en/github/writing-on-github/gett
 
 To see a list of every image we support, check out the [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet).
 
+</br>
+
+### Markdown Preview
+All these points are important while writting markdown file. But still time-to-time we make lot of mistakes. So only if we could preview the file before commiting the changes, So is there such a functionality available? The answer is Yes, indeed markdown preview functionality is available in many IDE's.
+
+You can check more about markdown in VS Code, [here](https://code.visualstudio.com/docs/languages/markdown).
+
+VS Code supports Markdown files out of the box. You just start writing Markdown text, save the file with the .md extension and then you can toggle the visualization of the editor between the code and the preview of the Markdown file; obviously, you can also open an existing Markdown file and start working with it. To switch between views, press `Ctrl+Shift+V` in the editor. You can view the preview side-by-side `(Ctrl+K V)` with the file you are editing and see changes reflected in real-time as you edit.
+
+</br>
 
 ## References
 
