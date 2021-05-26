@@ -6,6 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 * [Android](#android)
 * [Android Studio](#android-studio)
+* [Commands](#commands)
 * [Git](#git)
 * [iOS](#ios)
 * [Markdown](#markdown)
@@ -27,6 +28,10 @@ A collection of concise write-ups on small things I learn day to day across a va
 ### Android Studio
 
 - [How to search all files for a string in Android Studio?](android-studio/search-all-files-for-the-string.md)
+
+### Commands
+
+- [Git Commands](commands/git-commands.md)
 
 ### Git
 
