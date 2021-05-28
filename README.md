@@ -40,6 +40,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Checkout Old Version Of A File](git/checkout-old-version-of-a-file.md)
 - [Checkout Previous Branch](git/checkout-previous-branch.md)
 - [Delete All Untracked Files](git/delete-all-untracked-files.md)
+- [Deleting a Git Commit](git/deleting-a-git-commit.md)
 - [Git Push Force but with lease](git/git-push-force-but-with-lease.md)
 - [Move The Latest Commit To A New Branch](git/move-the-latest-commit-to-a-new-branch.md)
 - [Rename a Git Branch](git/rename_git_branch.md)
