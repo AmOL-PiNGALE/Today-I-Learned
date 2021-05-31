@@ -27,7 +27,8 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ### Android Studio
 
-- [How to search all files for a string in Android Studio?](android-studio/search-all-files-for-the-string.md)
+- [Search all files for a string in Android Studio?](android-studio/search-all-files-for-the-string.md)
+- [Setup ADB on macOS](android-studio/setup-adb-on-macOS.md)
 
 ### Commands
 
