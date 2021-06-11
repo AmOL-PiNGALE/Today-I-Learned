@@ -17,6 +17,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 - [Alternative to AsyncTask](android/alternative-to-asynctask-in-java.md)
 - [Alternative to IntentService](android/alternative-to-intentservice.md)
+- [Calculate Lines of Code in Android](android/calculate-lines-of-code-in-android.md)
 - [Code Formatting in Kotlin using ktlint](android/code-formatting-in-kotlin-using-ktlint.md)
 - [Determining if an Android Device is Rooted Programmatically](android/determining-if-an-android-device-is-rooted-programmatically.md)
 - [Difference between Build Type, Flavour, and Build Variant in Android](android/difference-between-build-type-flavour-and-build-variant.md)
