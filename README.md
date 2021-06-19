@@ -23,6 +23,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Difference between Build Type, Flavour, and Build Variant in Android](android/difference-between-build-type-flavour-and-build-variant.md)
 - [Display Classes Containing Deprecation Android](android/display-classes-containing-deprecation-android.md)
 - [Launch Modes](android/launch_modes.md)
+- [Refesh fragment at reload](android/refresh-fragment-at-reload.md)
 - [Setting different ApplicationId in Gradle](android/setting-different-applicationid-in-gradle.md)
 - [Shimmer Effect Placeholder](android/shimmer-effect-placeholder.md)
 - [Upgrade Fabric to Firebase Crashlytics](android/upgrade-fabric-to-firebase-crashlytics.md)
